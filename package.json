@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node JS first try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ievgend2/Node.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ievgen Dotsenko <ievgendotsenko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ievgend2/Node/issues"
+  },
+  "homepage": "https://github.com/ievgend2/Node#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
